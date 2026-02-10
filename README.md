@@ -110,7 +110,7 @@ In manual mode:
 ---
 
 ## Installation Steps
-1. Clone this repository https://github.com/harsadella/esp32-smart-home-telegram
+1. Clone this repository: https://github.com/harsadella/esp32-smart-home-telegram
 2. Open the project in Arduino IDE
 3. Install all required libraries
 4. Configure:
